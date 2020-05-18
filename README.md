@@ -1,6 +1,8 @@
 # Chandler's Learning Journal
 
 ## About Me
+I'm Chandler! Live Sound Engineer // Photographer // Musician // Brand New Coder!! 
+
 
 ## Monday May 18th
 
