@@ -14,7 +14,10 @@
 
 &mdash; understanding that failure is an essential part of the learning process   
 
-&mdash; asking for help when needed   
+&mdash; asking for help when needed  
+
+---
+
 
 
 
