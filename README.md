@@ -12,7 +12,6 @@ I'm a photography nerd! Specifically film, I love to shoot 35mm & 120.
 
 I took this shot on a [**Mamiya RB67**](http://camera-wiki.org/wiki/Mamiya_RB67) medium format camera, developed the negatives in my kitchen & scanned them using an Epson V600
 
----
 
 > ## Growth Mindset
 > #### What does having a ***GROWTH MINDSET*** mean?
