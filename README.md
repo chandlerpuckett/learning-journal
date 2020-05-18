@@ -1,5 +1,5 @@
 # Chandler's Learning Journal
 
 ### Monday May 18th
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/z410fBS" data-context="false" ><a href="//imgur.com/a/z410fBS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote <a href="https://photos.app.goo.gl/Wdeoi3MhAy9QxiM66"></a></blockquote><script async src="https://photos.app.goo.gl/Wdeoi3MhAy9QxiM66" charset="utf-8"></script>
 
