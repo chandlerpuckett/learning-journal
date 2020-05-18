@@ -15,11 +15,14 @@
 #### Command Cheat Sheet
 - Terminal Commands
   - ls: list
+    - (-l) long listing
   - tree: pulls up your directory in a lovely "tree" style format
   - code: opens VSCode
-  
-  
-- definitions
-- commands
-- stuff
-- more stuff!!
+  - echo: tells user which shell you're in
+  - pwd: print working directory; tells user current working directory 
+
+##### KEY POINTS TO REMEMBER WHEN USING TERMINAL
+- bash (bourne again shell) shell within terminal
+- there must be a space between the command and the first command line argument
+- first command line argument is also called an ***OPTION***
+- options are used to modify behavior of the command
