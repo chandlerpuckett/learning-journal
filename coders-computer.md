@@ -16,6 +16,8 @@
 - Terminal Commands
   - ls: list
     - (-l) long listing
+    - (/etc) lists contents of directory
+    - (
   - tree: pulls up your directory in a lovely "tree" style format
   - code: opens VSCode
   - echo: tells user which shell you're in
@@ -26,3 +28,4 @@
 - there must be a space between the command and the first command line argument
 - first command line argument is also called an ***OPTION***
 - options are used to modify behavior of the command
+- Linux file systems have a hierarchical structure
