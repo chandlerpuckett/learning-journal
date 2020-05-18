@@ -43,4 +43,4 @@
 - ***LINUX IS CASE SENSITIVE***
 - space on the command line is how we separate items
   - using quotes, anything inside double or single is considered a single item
-  - can use an *escape character (\)* to the same effect, it nullifys the special meaning of the character following it
+  - can use an *escape character (\\)* to the same effect, it nullifys the special meaning of the character following it
