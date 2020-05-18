@@ -8,13 +8,13 @@
 ## *Growth Mindset*
 #### What does having a ***GROWTH MINDSET*** mean?
 
-> &mdash; growth mindset is about embracing challenges   
+&mdash; growth mindset is about embracing challenges   
 
-> &mdash; working hard to persevere & achieve your goals   
+&mdash; working hard to persevere & achieve your goals   
 
-> &mdash; understanding that failure is an essential part of the learning process   
+&mdash; understanding that failure is an essential part of the learning process   
 
-> &mdash; asking for help when needed   
+&mdash; asking for help when needed   
 
 
 
