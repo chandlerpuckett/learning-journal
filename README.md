@@ -2,5 +2,5 @@
 
 ### Monday May 18th
 
-![alt text](files/users/chandlerpuckett/desktop/landscape1.jpg)
+![landscape image](landscape1.jpg)
 
