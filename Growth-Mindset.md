@@ -1,4 +1,4 @@
-> # Growth Mindset
+# Growth Mindset
 
 > #### What does having a ***GROWTH MINDSET*** mean?
 >
