@@ -8,7 +8,7 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Growth Mindset](Growth-Mindset.md)
 - [Coders Computer](coders-computer.md)
 - [Revisions And The Cloud](revisions-and-the-cloud.md)
-- [Class 4](class-4.md)   
+- [HTML Structure](html-structure.md)   
 - [Class 5](class-5.md)
 - [Class 6]()
 - [Class 7]()
