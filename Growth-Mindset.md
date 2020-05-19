@@ -8,4 +8,4 @@
 > &mdash; asking for ***help*** when needed   
 >
 
-[*home*](README.md)
+[home](README.md)
