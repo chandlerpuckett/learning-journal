@@ -1,6 +1,6 @@
 # HTML Page Structure
 
-### Design & Visual Heirarchy
+### Design & Visual Hierarchy
 - Ask questions about the people you would expect to be interested in the subject of your site.
 - who is your target audience?
 - content & design should be influenced by the ***MOTIVATIONS & GOALS*** of your users
