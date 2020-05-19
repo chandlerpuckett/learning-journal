@@ -8,6 +8,14 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Growth Mindset](Growth-Mindset.md)
 - [Coders Computer](coders-computer.md)
 - [Revisions And The Cloud](revisions-and-the-cloud.md)
+- [Class 4]()   
+- [Class 5]()
+- [Class 6]()
+- [Class 7]()
+- [Class 8]()
+- [Class 9]()
+- [Class 10]()
+
 
 
 ### Monday May 18th
