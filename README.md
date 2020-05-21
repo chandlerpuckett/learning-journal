@@ -12,7 +12,7 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [CSS](class-5.md)
 - [Computer Architecture & Logic](architecture.md)
 - [Javascript](javascript.md)
-- [Class 8]()
+- [JS Programming: Expressions, Operators, Functions](javascript_programming.md)
 - [Class 9]()
 - [Class 10]()
 
