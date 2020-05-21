@@ -10,7 +10,7 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Revisions And The Cloud](revisions-and-the-cloud.md)
 - [HTML Structure](html-structure.md)   
 - [CSS](class-5.md)
-- [Class 6]()
+- [Computer Architecture & Logic](architecture.md)
 - [Class 7]()
 - [Class 8]()
 - [Class 9]()
