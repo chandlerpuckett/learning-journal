@@ -14,7 +14,6 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Javascript](javascript.md)
 - [JS Programming: Expressions, Operators, Functions](javascript_programming.md)
 - [Logic & Loops](loops.md)
-- [Class 10]()
 
 
 
