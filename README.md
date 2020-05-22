@@ -6,7 +6,6 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 
 ### Entries
 - [Growth Mindset](Growth-Mindset.md)
-- [Markdown Reading](markdown.md)
 - [Coders Computer](coders-computer.md)
 - [Revisions And The Cloud](revisions-and-the-cloud.md)
 - [HTML Structure](html-structure.md)   
@@ -15,7 +14,7 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Javascript](javascript.md)
 - [JS Programming: Expressions, Operators, Functions](javascript_programming.md)
 - [Logic & Loops](loops.md)
-
+- [Markdown](markdown.md)
 
 
 ### Monday May 18th
